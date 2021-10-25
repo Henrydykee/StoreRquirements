@@ -17,7 +17,9 @@ iPhone 5.5" Display devices are: iPhone 6s Plus, iPhone 7 Plus, iPhone 8 Plus
 The same goes for the iPad screenshots. If you want to showcase the iPad device within the screenshot, you will need to showcase the iPad Pro 3rd Gen and iPad Pro 2nd Gen.
  
 Android screenshot specification
- 2-8 phone screenshots. Screenshots must be PNG or JPEG, up to 8 MB each, 16:9 or 9:16 aspect ratio, with each side between 320 px and 3,840 px
+Your app icon must be a transparent PNG or JPEG, up to 1 MB, 512 px by 512 px
+Your feature graphic must be a PNG or JPEG, up to 1MB, and 1,024 px by 500 px
+2-8 phone screenshots. Screenshots must be PNG or JPEG, up to 8 MB each, 16:9 or 9:16 aspect ratio, with each side between 320 px and 3,840 px
  
  
 Also, make sure that there are no mentions of Google or Android in the 
